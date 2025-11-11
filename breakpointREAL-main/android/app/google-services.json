@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71508890687",
+    "project_id": "breakpoint-dc13d",
+    "storage_bucket": "breakpoint-dc13d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71508890687:android:23c2334b003a71ac8f948a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sample_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67CF3FI-G7RHnsSL-xrMKL1r3johFwUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
